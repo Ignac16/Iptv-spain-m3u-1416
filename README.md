@@ -15,4 +15,8 @@ Canales disponibles en España con Tdt en vivo y con máxima calidad disponible,
    
    En xml> https://www.open-epg.com/generate/T4WK49srbq.xml
 
+ Yo recomiendo la 1ª playlist que dentro de poco va a tener un montón de canales para niños. Y tiene el epg correcto, el otro está en pruebas.  
+
+
+
 Y hasta aquí todo, si te ha gustao invitamé a un café. 👌😁
