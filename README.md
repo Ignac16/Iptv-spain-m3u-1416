@@ -19,4 +19,4 @@ Canales disponibles en España con Tdt en vivo y con máxima calidad disponible,
 
 
 
-Y hasta aquí todo, si te ha gustao invitamé a un café. 👌😁
+Y hasta aquí todo señores. 
