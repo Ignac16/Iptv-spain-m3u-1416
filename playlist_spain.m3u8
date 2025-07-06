@@ -45,8 +45,9 @@ https://rtvelivestream.akamaized.net/rtvesec/rne/rne_para_todos_main.m3u8
 https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/bitok/eyJzdGlkIjoiMDA0YjY0NTMtYjY2MC00ZTZkLTlkNzEtMTk3YTM3ZDZhZWIxIiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjoxfQ==/26034/euronews-es.m3u8
 #EXTINF:-1 tvg-name="El País" tvg-logo="https://graph.facebook.com/elpais/picture?width=200&height=200" tvg-id="ElPaisTV.es" group-title="Spain",El País
 https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
-#EXTINF:-1 tvg-name="quest.tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/42/Quest_logo_2014.svg" tvg-id="Questtv.us" group-title="Spain",Quest tv
-https://media2.streambrothers.com:19360/8038/8038.m3u8
+#EXTINF:-1 tvg-name="qwest.tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/42/Quest_logo_2014.svg" tvg-id="Qwesttv.us"
+esttv.us" group-title="Spain",Quest tv
+4097:0:1:0:0:0:0:0:0:0:https%3a//qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8
 #EXTINF:-1 tvg-name="Negocios" tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" tvg-id="NegociosTV.es" group-title="Spain",Negocios
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
 #EXTINF:-1 tvg-name="Squirrel" tvg-logo="https://i.imgur.com/urF0kYA.png" tvg-id="Squirrel.es" group-title="Spain",Squirrel
