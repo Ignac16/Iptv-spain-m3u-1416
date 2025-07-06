@@ -50,6 +50,8 @@ esttv.us" group-title="Spain",Quest tv
 4097:0:1:0:0:0:0:0:0:0:https%3a//qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8
 #EXTINF:-1 tvg-name="Negocios" tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" tvg-id="NegociosTV.es" group-title="Spain",Negocios
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
+#EXTINF:-1 tvg-name="Comedy Central.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" tvg-id="Comedycentral.es" group-title="Spain",Comedy Central
+http://190.0.241.181:8000/play/a07g/index.m3u8
 #EXTINF:-1 tvg-name="Squirrel" tvg-logo="https://i.imgur.com/urF0kYA.png" tvg-id="Squirrel.es" group-title="Spain",Squirrel
 https://tsw.streamingwebtv24.it:1936/inteccdn1/inteccdn1/playlist.m3u8
 #EXTINF:-1 tvg-name="BOM Cine.es" tvg-logo="https://i.imgur.com/cqhofMU.png" tvg-id="BomCine.es" group-title="Spain",BOM Cine
