@@ -17,7 +17,7 @@ https://d3pfmk89wc0vm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main_dvr_360.m3u8
 #EXTINF:-1 tvg-name="Clan.es" tvg-logo="https://i.imgur.com/38xIfQ3.png" tvg-id="clan.es" group-title="Spain",clan
 https://rtvelivestream.rtve.es/rtvesec/clan/clan_main_dvr.m3u8
-#EXTINF:-1 tvg-name="TVE Internacional Europe-Asia" tvg-logo="https://i.imgur.com/ow1HArj.png" tvg-id="TVEInternacionalEuropeAsia.es" group-title="Spain",TVE Internacional Europe-Asia
+#EXTINF:-1 tvg-name="TVE Internacional Europe-Asia.ea" tvg-logo="https://i.imgur.com/ow1HArj.png" tvg-id="TVEInternacionalEuropeAsia.es" group-title="Spain",TVE Internacional Europe-Asia
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main_dvr.m3u8
 #EXTINF:-1 tvg-name="Neox" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/neox-es.png" tvg-id="Neox.es" group-title="Spain",Neox
 http://185.189.225.150:85/neox/index.m3u8
@@ -41,7 +41,7 @@ https://directos.bemad.es/orilinear02/live/linear02/main/main.isml/main-audio_sp
 http://185.189.225.150:85/Paramount/index.m3u8
 #EXTINF:-1 tvg-name="RNE para todos" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" tvg-id="RNE.es" group-title="Spain",RNE para todos
 https://rtvelivestream.akamaized.net/rtvesec/rne/rne_para_todos_main.m3u8
-#EXTINF:-1 tvg-name="euronews" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/euro-news-int.png" tvg-id="Euronews.es" group-title="Spain",euronews
+#EXTINF:-1 tvg-name="euro news.es" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/euro-news-int.png" tvg-id="Euronews.es" group-title="Spain",euronews
 https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/bitok/eyJzdGlkIjoiMDA0YjY0NTMtYjY2MC00ZTZkLTlkNzEtMTk3YTM3ZDZhZWIxIiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjoxfQ==/26034/euronews-es.m3u8
 #EXTINF:-1 tvg-name="El País" tvg-logo="https://graph.facebook.com/elpais/picture?width=200&height=200" tvg-id="ElPaisTV.es" group-title="Spain",El País
 https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
