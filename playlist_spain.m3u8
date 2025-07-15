@@ -26,7 +26,7 @@ http://185.189.225.150:85/nova/index.m3u8
 #EXTINF:-1 tvg-name="Mega.es" tvg-logo="https://i.imgur.com/Udrt2eK.png" tvg-id="Mega.es" group-title="Spain",Mega 
 http://185.189.225.150:85/mega/index.m3u8
 #EXTINF:-1 tvg-name="Atreseries" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/atreseries-es.png" tvg-id="Atreseries.es" group-title="Spain",Atreseries 
-http://181.78.109.48:8000/play/a00l/index.m3u8
+http://vivoplay-i.akamaihd.net/hls/live/255336/canal8/master2500k.m3u8
 #EXTINF:-1 tvg-name="FDF.es" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/fdf-es.png" tvg-id="FactoriadeFiccion.es" group-title="Spain",FDF
 http://185.189.225.150:85/fdf/index.m3u8
 #EXTINF:-1 tvg-name="Divinity" tvg-logo="https://i.imgur.com/o7fvEr6.png" tvg-id="Divinity.es" group-title="Spain",Divinity
