@@ -1,8 +1,4 @@
-#EXTM3U
- 
-#EXTINF:-1,*Mejor proveedor de IPTV premium | Más de 3000 canales Full HD
- 
-https://ia601406.us.archive.org/8/items/MejoradaLaMejorSuscripcion/mejorada%20la%20mejor%20suscripcion.mp4
+#EXTM3U 
 #EXTINF:-1,CAZA Y PESCA (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/731.m3u8
 
