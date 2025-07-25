@@ -52,6 +52,8 @@ esttv.us" group-title="Spain",Quest tv
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
 #EXTINF:-1 tvg-name="Comedy Central.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" tvg-id="Comedycentral.es" group-title="Spain",Comedy Central
 http://38.96.178.201:80/live/ComedyCentral/index.m3u8
+#EXTINF:-1 tvg-name="amc xanel.es" "tvg-id="AMC.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="Spain",AMC
+http://vegafibratv.com:8085/AMC/index.m3u8
 #EXTINF:-1 tvg-name="Squirrel" tvg-logo="https://i.imgur.com/urF0kYA.png" tvg-id="Squirrel.es" group-title="Spain",Squirrel
 https://tsw.streamingwebtv24.it:1936/inteccdn1/inteccdn1/playlist.m3u8
 #EXTINF:-1 tvg-name="BOM Cine.es" tvg-logo="https://i.imgur.com/cqhofMU.png" tvg-id="BomCine.es" group-title="Spain",BOM Cine
