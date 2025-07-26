@@ -29,6 +29,8 @@ http://185.189.225.150:85/mega/index.m3u8
 https://atres-live.atresmedia.com/515161a0216fe76b1e2a981455c23bac66eec38d_ES_1753534549_1753563289/h264/live/a3series/master.m3u8
 #EXTINF:-1 tvg-name="FDF.es" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/fdf-es.png" tvg-id="FactoriadeFiccion.es" group-title="Spain",FDF
 http://185.189.225.150:85/fdf/index.m3u8
+#EXTINF:-1 tvg-name="trece tv.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Canal_Trece_logo.svg" tvg-id="TRECE.es" group-title="Spain",TRECE
+https://live-edge-par-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
 #EXTINF:-1 tvg-name="Divinity" tvg-logo="https://i.imgur.com/o7fvEr6.png" tvg-id="Divinity.es" group-title="Spain",Divinity
 https://directos.divinity.es/orilinear04/live/linear04/main/main.isml/main-audio_spa=128000-video=1500000.m3u8
 #EXTINF:-1 tvg-name="Energy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/energy-es.png" tvg-id="Energy.es" group-title="Spain",Energy 
