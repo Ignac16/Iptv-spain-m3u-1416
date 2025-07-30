@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-name="La 1.es" tvg-logo="https://i.imgur.com/NbesiPn.png" tvg-id="La1.es" group-title="Spain",La 1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 tvg-name="La 2.es" tvg-logo="https://i.imgur.com/DmuTwDw.png" tvg-id="La2.es" group-title="Spain",La 2
-https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8
+https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
 #EXTINF:-1 tvg-name="Antena 3.es" tvg-logo="https://i.imgur.com/j3SP4BS.png" tvg-id="Antena3.es" group-title="Spain",Antena 3
 http://185.189.225.150:85/Antena3HD/index.m3u8
 #EXTINF:-1 tvg-name="Cuatro" tvg-logo="https://i.imgur.com/zROxNap.png" tvg-id="Cuatro.es" group-title="Spain",Cuatro
@@ -12,7 +12,7 @@ http://185.189.225.150:85/TeleCincoHD/index.m3u8
 #EXTINF:-1 tvg-name="La Sexta.es" tvg-logo="https://i.imgur.com/b59MxgM.png" tvg-id="LaSexta.es" group-title="Spain",La Sexta
 http://185.189.225.150:85/LaSexta/index.m3u8
 #EXTINF:-1 tvg-name="24 h.es" tvg-logo="https://i.imgur.com/ZKR2jKr.png" tvg-id="24h.es" group-title="Spain",24h
-https://d3pfmk89wc0vm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nlow3qkp9tmdm/24H_ES.m3u8
+https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-name="tdp .es" tvg-logo="https://i.imgur.com/HliegRJ.png" tvg-id="tdp.es" group-title="Spain",tdp
 https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main_dvr_360.m3u8
 #EXTINF:-1 tvg-name="Clan.es" tvg-logo="https://i.imgur.com/38xIfQ3.png" tvg-id="clan.es" group-title="Spain",clan
