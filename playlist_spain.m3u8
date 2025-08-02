@@ -39,6 +39,8 @@ https://directos.energytv.es/orilinear03/live/linear03/main/main.isml/web.m3u8
 http://185.189.225.150:85/boing/index.m3u8
 #EXTINF:-1 tvg-name="nikelodeon tv.es" tvg-logo="https://logos-world.net/wp-content/uploads/2021/11/Nickelodeon-Logo.png" tvg-id="Nickelodeon.es" group-title="Spain",Nickelodeon
 http://185.189.225.150:85/nickelodeon/index.m3u8
+#EXTINF:-1 tvg-name="nick jr.es" tvg-logo="https://logos-world.net/wp-content/uploads/2021/11/Nickelodeon-Logo.png" tvg-id="NickelodeonJr.es" group-title="Spain",Nick Jr
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7cb2cbb9010009b4fe32livestitch/master.m3u8
 #EXTINF:-1 tvg-name="Be Mad.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/512px-Be_Mad_TV.svg.png" tvg-id="BeMad.es" group-title="Spain",Be Mad 
 https://directos.bemad.es/orilinear02/live/linear02/main/main.isml/main-audio_spa=128000-video=1500000.m3u8
 #EXTINF:-1 tvg-name="Paramount Network.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" tvg-id="ParamountNetwork.es" group-title="Spain",Paramount Network
