@@ -34,7 +34,7 @@ https://live-edge-par-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live
 #EXTINF:-1 tvg-name="Divinity" tvg-logo="https://i.imgur.com/o7fvEr6.png" tvg-id="Divinity.es" group-title="Spain",Divinity
 https://directos.divinity.es/orilinear04/live/linear04/main/main.isml/main-audio_spa=128000-video=1500000.m3u8
 #EXTINF:-1 tvg-name="Energy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/energy-es.png" tvg-id="Energy.es" group-title="Spain",Energy 
-https://directos.mediasetinfinity.es/orilinear03/live/linear03/main/main.isml/dai.m3u8
+https://directos.energytv.es/orilinear03/live/linear03/main/main.isml/web.m3u8
 #EXTINF:-1 tvg-name="Boing" tvg-logo="https://i.imgur.com/nUYuCAP.png" tvg-id="Boing.es" group-title="Spain",Boing
 http://185.189.225.150:85/boing/index.m3u8
 #EXTINF:-1 tvg-name="nikelodeon tv.es" tvg-logo="https://logos-world.net/wp-content/uploads/2021/11/Nickelodeon-Logo.png" tvg-id="Nickelodeon.es" group-title="Spain",Nickelodeon
