@@ -62,7 +62,7 @@ http://vegafibratv.com:8085/AMC/index.m3u8
 #EXTINF:-1 tvg-name="discovery xanel.es" "tvg-id="DISCOVERY.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="Spain",Discovery
 http://vegafibratv.com:8085/AMC/index.m3u8
 #EXTINF:-1 tvg-name="history channel.es" "tvg-id="Historia.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="Spain",Historia
-http://vegafibratv.com:8085/AMC/index.m3u8
+http://iptv.prosto.tv:7000/ch87/index.m3u8
 #EXTINF:-1 tvg-name="Squirrel" tvg-logo="https://i.imgur.com/urF0kYA.png" tvg-id="Squirrel.es" group-title="Spain",Squirrel
 https://tsw.streamingwebtv24.it:1936/inteccdn1/inteccdn1/playlist.m3u8
 #EXTINF:-1 tvg-name="BOM Cine.es" tvg-logo="https://i.imgur.com/cqhofMU.png" tvg-id="BomCine.es" group-title="Spain",BOM Cine
