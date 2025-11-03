@@ -30,7 +30,7 @@ http://176.65.146.237:8401/play/a0ai/index.m3u8
 #EXTINF:-1 tvg-name="FDF.es" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/fdf-es.png" tvg-id="FactoriadeFiccion.es" group-title="Spain",FDF
 http://176.65.146.237:8401/play/a09p/index.m3u8
 #EXTINF:-1 tvg-name="trece tv.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Canal_Trece_logo.svg" tvg-id="TRECE.es" group-title="Spain",TRECE
-https://live-edge-par-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
+http://176.65.146.237:8401/play/a0a9/index.m3u8
 #EXTINF:-1 tvg-name="Divinity" tvg-logo="https://i.imgur.com/o7fvEr6.png" tvg-id="Divinity.es" group-title="Spain",Divinity
 http://176.65.146.237:8401/play/a09q/index.m3u8
 #EXTINF:-1 tvg-name="Energy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/energy-es.png" tvg-id="Energy.es" group-title="Spain",Energy 
@@ -44,9 +44,9 @@ http://thevdm.xyz:25461/live/timmadden/timmad4765/19942.m3u8
 #EXTINF:-1 tvg-name="disney jr.es" tvg-logo="https://e7.pngegg.com/pngimages/362/350/png-clipart-disney-junior-logo-disney-la-chaine-the-walt-disney-company-graphics-disney-junior-logo-television-text.png" tvg-id="DisneyJr.es" group-title="Spain",Disney Jr
 http://23.227.133.2:25461/live/timmadden/timmad4765/19878.m3u8 
 #EXTINF:-1 tvg-name="Be Mad.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/512px-Be_Mad_TV.svg.png" tvg-id="BeMad.es" group-title="Spain",Be Mad 
-https://directos.bemad.es/orilinear02/live/linear02/main/main.isml/main-audio_spa=128000-video=1500000.m3u8
+http://176.65.146.237:8401/play/a0aj/index.m3u8
 #EXTINF:-1 tvg-name="Paramount Network.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" tvg-id="ParamountNetwork.es" group-title="Spain",Paramount Network
-http://185.189.225.150:85/Paramount/index.m3u8
+http://176.65.146.237:8401/play/a09i/index.m3u8
 #EXTINF:-1 tvg-name="RNE para todos" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" tvg-id="RNE.es" group-title="Spain",RNE para todos
 https://rtvelivestream.akamaized.net/rtvesec/rne/rne_para_todos_main.m3u8
 #EXTINF:-1 tvg-name="euro news.es" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/euro-news-int.png" tvg-id="Euronews.es" group-title="Spain",euronews
@@ -66,9 +66,9 @@ http://vegafibratv.com:8085/AMC/index.m3u8
 #EXTINF:-1 tvg-name="history channel.es" "tvg-id="Historia.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="Spain",Historia
 http://iptv.prosto.tv:7000/ch87/index.m3u8
 #EXTINF:-1 tvg-name="Squirrel" tvg-logo="https://i.imgur.com/urF0kYA.png" tvg-id="Squirrel.es" group-title="Spain",Squirrel
-https://tsw.streamingwebtv24.it:1936/inteccdn1/inteccdn1/playlist.m3u8
+http://176.65.146.237:8401/play/a09h/index.m3u8
 #EXTINF:-1 tvg-name="BOM Cine.es" tvg-logo="https://i.imgur.com/cqhofMU.png" tvg-id="BomCine.es" group-title="Spain",BOM Cine
-https://tsw.streamingwebtv24.it:1936/inteccdn3/inteccdn3/playlist.m3u8
+http://176.65.146.237:8401/play/a09d/index.m3u8
 #EXTINF:-1 tvg-name="Telemadrid" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/512px-TeleMadrid.svg.png" tvg-id="Telemadrid.es" group-title="Spain",Telemadrid
 https://telemadrid-23-secure2.akamaized.net/master.m3u8
 #EXTINF:-1 tvg-name="La Otra.es" tvg-logo="https://i.imgur.com/W1UZyXH.png" tvg-id="LaOtra.es" group-title="Spain",La Otra
@@ -76,7 +76,7 @@ https://laotra-1-23-secure2.akamaized.net/master.m3u8
 #EXTINF:-1 tvg-name="Canal Sur Andalucía" tvg-logo="https://i.imgur.com/WcVOXPr.png" tvg-id="CanalSurAndalucia.es" group-title="Spain",Canal Sur Andalucía
 https://d35x6iaiw8f75z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbwsl0jk1bvoo/canal_sur_andalucia_es.m3u8
 #EXTINF:-1 tvg-id="TENCanal10.hn" tvg-logo="https://i.imgur.com/HQiKyHy.jpg" group-title="Spain",TEN 
-https://raw.githubusercontent.com/BellezaEmporium/IPTV_Exception/master/channels/hn/tentv.m3u8
+http://176.65.146.237:8401/play/a0al/index.m3u8
 #EXTINF:-1 tvg-name="La 8 Mediterráneo" tvg-logo="https://graph.facebook.com/la8mediterraneo/picture?width=200&height=200" tvg-id="La8Mediterraneo.es" group-title="Spain",La 8 Mediterráneo
 https://streaming004.gestec-video.com/hls/8TV.m3u8
 #EXTINF:-1 tvg-name="Televisión Canaria" tvg-logo="https://i.imgur.com/68LNS8e.png" tvg-id="TVCanaria.es" group-title="Spain",Televisión Canaria 
