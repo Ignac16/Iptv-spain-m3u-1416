@@ -4,13 +4,13 @@ https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
 #EXTINF:-1 tvg-name="La 2.es" tvg-logo="https://i.imgur.com/DmuTwDw.png" tvg-id="La2.es" group-title="Spain",La 2
 https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
 #EXTINF:-1 tvg-name="Antena 3.es" tvg-logo="https://i.imgur.com/j3SP4BS.png" tvg-id="Antena3.es" group-title="Spain",Antena 3
-http://185.189.225.150:85/Antena3HD/index.m3u8
+http://176.65.146.237:8401/play/a0ae/index.m3u8
 #EXTINF:-1 tvg-name="Cuatro" tvg-logo="https://i.imgur.com/zROxNap.png" tvg-id="Cuatro.es" group-title="Spain",Cuatro
-http://185.189.225.150:85/CuatroHD/index.m3u8
+http://176.65.146.237:8401/play/a09s/index.m3u8
 #EXTINF:-1 tvg-name="Telecinco" tvg-logo="https://i.imgur.com/JECsKdk.png" tvg-id="Telecinco.es" group-title="Spain",Telecinco
-http://185.189.225.150:85/TeleCincoHD/index.m3u8
+http://176.65.146.237:8401/play/a09r/index.m3u8
 #EXTINF:-1 tvg-name="La Sexta.es" tvg-logo="https://i.imgur.com/b59MxgM.png" tvg-id="LaSexta.es" group-title="Spain",La Sexta
-http://185.189.225.150:85/LaSexta/index.m3u8
+http://176.65.146.237:8401/play/a0af/index.m3u8
 #EXTINF:-1 tvg-name="24 h.es" tvg-logo="https://i.imgur.com/ZKR2jKr.png" tvg-id="24h.es" group-title="Spain",24h
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-name="tdp .es" tvg-logo="https://i.imgur.com/HliegRJ.png" tvg-id="tdp.es" group-title="Spain",tdp
@@ -20,21 +20,21 @@ https://rtvelivestream.rtve.es/rtvesec/clan/clan_main_dvr.m3u8
 #EXTINF:-1 tvg-name="TVE Internacional Europe-Asia.ea" tvg-logo="https://i.imgur.com/ow1HArj.png" tvg-id="TVEInternacionalEuropeAsia.es" group-title="Spain",TVE Internacional Europe-Asia
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main_dvr.m3u8
 #EXTINF:-1 tvg-name="Neox" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/neox-es.png" tvg-id="Neox.es" group-title="Spain",Neox
-http://185.189.225.150:85/neox/index.m3u8
+http://176.65.146.237:8401/play/a0ag/index.m3u8
 #EXTINF:-1 tvg-name="Nova" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/nova-es.png" tvg-id="Nova.es" group-title="Spain",Nova
-http://185.189.225.150:85/nova/index.m3u8
+http://176.65.146.237:8401/play/a0ah/index.m3u8
 #EXTINF:-1 tvg-name="Mega.es" tvg-logo="https://i.imgur.com/Udrt2eK.png" tvg-id="Mega.es" group-title="Spain",Mega 
-http://185.189.225.150:85/mega/index.m3u8
+http://176.65.146.237:8401/play/a0a5/index.m3u8
 #EXTINF:-1 tvg-name="Atreseries" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/atreseries-es.png" tvg-id="Atreseries.es" group-title="Spain",Atreseries 
 http://176.65.146.237:8401/play/a0ai/index.m3u8
 #EXTINF:-1 tvg-name="FDF.es" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/fdf-es.png" tvg-id="FactoriadeFiccion.es" group-title="Spain",FDF
-http://185.189.225.150:85/fdf/index.m3u8
+http://176.65.146.237:8401/play/a09p/index.m3u8
 #EXTINF:-1 tvg-name="trece tv.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Canal_Trece_logo.svg" tvg-id="TRECE.es" group-title="Spain",TRECE
 https://live-edge-par-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
 #EXTINF:-1 tvg-name="Divinity" tvg-logo="https://i.imgur.com/o7fvEr6.png" tvg-id="Divinity.es" group-title="Spain",Divinity
-https://directos.divinity.es/orilinear04/live/linear04/main/main.isml/main-audio_spa=128000-video=1500000.m3u8
+http://176.65.146.237:8401/play/a09q/index.m3u8
 #EXTINF:-1 tvg-name="Energy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/energy-es.png" tvg-id="Energy.es" group-title="Spain",Energy 
-https://directos.energytv.es/orilinear03/live/linear03/main/main.isml/web.m3u8
+http://176.65.146.237:8401/play/a0ac/index.m3u8
 #EXTINF:-1 tvg-name="Boing" tvg-logo="https://i.imgur.com/nUYuCAP.png" tvg-id="Boing.es" group-title="Spain",Boing
 http://185.189.225.150:85/boing/index.m3u8
 #EXTINF:-1 tvg-name="nikelodeon tv.es" tvg-logo="https://logos-world.net/wp-content/uploads/2021/11/Nickelodeon-Logo.png" tvg-id="Nickelodeon.es" group-title="Spain",Nickelodeon
