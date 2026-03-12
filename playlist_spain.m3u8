@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/generate/T4WK49srbq.xml"
-#EXTINF:-1 tvg-name="La 1.es" tvg-logo="https://i.imgur.com/NbesiPn.png" tvg-id="La1.es" group-title="Spain",La 1
+#EXTINF:-1 tvg-name="La 1.es" tvg-logo="https://i.ibb.co/MxJNPHsn/La-1.png" tvg-id="La1.es" group-title="Spain",La 1
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
-#EXTINF:-1 tvg-name="La 2.es" tvg-logo="https://i.imgur.com/DmuTwDw.png" tvg-id="La2.es" group-title="Spain",La 2
+#EXTINF:-1 tvg-name="La 2.es" tvg-logo="https://i.ibb.co/rfsr9PSh/La-2.png" tvg-id="La2.es" group-title="Spain",La 2
 https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
 #EXTINF:-1 tvg-name="Antena 3.es" tvg-logo="https://i.imgur.com/j3SP4BS.png" tvg-id="Antena3.es" group-title="Spain",Antena 3
 http://176.65.146.237:8401/play/a0ae/index.m3u8
@@ -29,7 +29,7 @@ http://176.65.146.237:8401/play/a0a5/index.m3u8
 http://176.65.146.237:8401/play/a0ai/index.m3u8
 #EXTINF:-1 tvg-name="FDF.es" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/fdf-es.png" tvg-id="FactoriadeFiccion.es" group-title="Spain",FDF
 http://176.65.146.237:8401/play/a09p/index.m3u8
-#EXTINF:-1 tvg-name="trece tv.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Canal_Trece_logo.svg" tvg-id="TRECE.es" group-title="Spain",TRECE
+#EXTINF:-1 tvg-name="trece tv.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/960px-Trece.svg.png" tvg-id="TRECE.es" group-title="Spain",TRECE
 http://176.65.146.237:8401/play/a0a9/index.m3u8
 #EXTINF:-1 tvg-name="Divinity" tvg-logo="https://i.imgur.com/o7fvEr6.png" tvg-id="Divinity.es" group-title="Spain",Divinity
 http://176.65.146.237:8401/play/a09q/index.m3u8
@@ -61,8 +61,8 @@ http://38.96.178.201:80/live/ComedyCentral/index.m3u8
 http://vegafibratv.com:8085/AMC/index.m3u8
 #EXTINF:-1 tvg-name="discovery xanel.es" "tvg-id="DISCOVERY.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="Spain",Discovery
 http://vegafibratv.com:8085/AMC/index.m3u8
-#EXTINF:-1 tvg-name="history channel.es" "tvg-id="Historia.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="Spain",Historia
-http://iptv.prosto.tv:7000/ch87/index.m3u8
+#EXTINF:-1 tvg-name="history channel.es" "tvg-id="Historia.es" tvg-logo="https://www.clipartmax.com/png/middle/425-4257707_canal-historia-hdtv-history-channel-logo-png.png" group-title="Spain",Historia
+https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
 #EXTINF:-1 tvg-name="Squirrel" tvg-logo="https://i.imgur.com/urF0kYA.png" tvg-id="Squirrel.es" group-title="Spain",Squirrel
 http://176.65.146.237:8401/play/a09h/index.m3u8
 #EXTINF:-1 tvg-name="BOM Cine.es" tvg-logo="https://i.imgur.com/cqhofMU.png" tvg-id="BomCine.es" group-title="Spain",BOM Cine
@@ -113,11 +113,11 @@ https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3
 https://videoserver.tmcreativos.com:19360/ccxwhsfcnq/ccxwhsfcnq.m3u8
 #EXTINF:-1 tvg-name="Televisión Melilla" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/television-melilla-es.png" tvg-id="TelevisionMelilla.es" group-title="Spain",Televisión Melilla
 https://tvmelilla-hls-rm-lw.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-name="La 1 (Catalunya).es" tvg-logo="https://i.imgur.com/NbesiPn.png" tvg-id="La1Catalunya.es" group-title="Spain",La 1 (Catalunya)
-https://rtvelivestream-clnx.rtve.es/rtvesec/cat/la1_cat_main_dvr.m3u8
-#EXTINF:-1 tvg-name="La 1 (Canarias)" tvg-logo="https://i.imgur.com/NbesiPn.png" tvg-id="La1Canarias.es" group-title="Spain",La 1 (Canarias)
-https://rtvelivestream-clnx.rtve.es/rtvesec/can/la1_can_main_720.m3u8
-#EXTINF:-1 tvg-name="La 2 (Catalunya).es" tvg-logo="https://i.imgur.com/DmuTwDw.png" tvg-id="La2Catalunya.es" group-title="Spain",La 2 (Catalunya)
-https://rtvelivestream.akamaized.net/rtvesec/cat/la2_cat_main_dvr.m3u8
-#EXTINF:-1 tvg-name="La 2 (Canarias)" tvg-logo="https://i.imgur.com/DmuTwDw.png" tvg-id="La2Canarias.es" group-title="Spain",La 2 (Canarias)
+#EXTINF:-1 tvg-name="La 1 (Catalunya).es" tvg-logo="https://i.ibb.co/MxJNPHsn/La-1.png" tvg-id="La1Catalunya.es" group-title="Spain",La 1 (Catalunya)
+https://ztnr.rtve.es/ztnr/3293681.m3u8
+#EXTINF:-1 tvg-name="La 1 (Canarias)" tvg-logo="https://i.ibb.co/MxJNPHsn/La-1.png" tvg-id="La1Canarias.es" group-title="Spain",La 1 (Canarias)
+https://ztnr.rtve.es/ztnr/5190066.m3u8
+#EXTINF:-1 tvg-name="La 2 (Catalunya).es" tvg-logo="https://i.ibb.co/Lztt9rgr/La-2-Catalunya.png" tvg-id="La2Catalunya.es" group-title="Spain",La 2 (Catalunya)
+https://ztnr.rtve.es/ztnr/3987218.m3u8
+#EXTINF:-1 tvg-name="La 2 (Canarias)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Logo_La_2_Canarias.png/960px-Logo_La_2_Canarias.png" tvg-id="La2Canarias.es" group-title="Spain",La 2 (Canarias)
 https://ztnr.rtve.es/ztnr/5468585.m3u8
