@@ -37,6 +37,8 @@ http://176.65.146.237:8401/play/a09q/index.m3u8
 http://176.65.146.237:8401/play/a0ac/index.m3u8
 #EXTINF:-1 tvg-name="Boing" tvg-logo="https://i.imgur.com/nUYuCAP.png" tvg-id="Boing.es" group-title="Spain",Boing
 http://185.189.225.150:85/boing/index.m3u8
+#EXTINF:-1 tvg-name="CN.ntw" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg" tvg-id="Cartoon.network" group-title="Spain",Cartoon Network
+http://38.41.8.1:8000/play/a11n
 #EXTINF:-1 tvg-name="nikelodeon tv.es" tvg-logo="https://logos-world.net/wp-content/uploads/2021/11/Nickelodeon-Logo.png" tvg-id="Nickelodeon.es" group-title="Spain",Nickelodeon
 http://185.189.225.150:85/nickelodeon/index.m3u8
 #EXTINF:-1 tvg-name="nick jr.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/2155px-Nick_Jr._logo_2023_%28outline%29.svg.png" tvg-id="NickelodeonJr.es" group-title="Spain",Nick Jr
