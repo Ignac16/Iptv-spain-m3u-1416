@@ -129,6 +129,6 @@ https://ztnr.rtve.es/ztnr/3987218.m3u8
 https://ztnr.rtve.es/ztnr/5468585.m3u8
 #EXTINF:-1 tvg-name="GOL.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/GolTV.svg/1920px-GolTV.svg.png" tvg-id="gol.es" group-title="Fútbol",GOL TV
 https://live2.eu-north-1a.cf.dmcdn.net/sec2(j8eIV2iPUkeRlpzi75yo16WTy8BO6Tu24VljdwnelP_Kb5qTic64cMmGERGQupzGDGiYSwBWVJVGLcJzeaZXdcjrBtLcj7_3ia7tK_2URXqipgNYH3DSlGrqc_OQbZju)/cloud/3/xa34sdg/d/live-720.m3u8
-#EXTINF:-1 tvg-name="GOL Classics.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/GolTV.svg/1920px-GolTV.svg.png" tvg-id="gol.es" group-title="Fútbol",GOL Classics
+#EXTINF:-1 tvg-name="GOL Classics.es" tvg-logo="https://github.com/Ignac16/Iptv-spain-m3u-1416/blob/main/assets/gol_classics.png?raw=true" tvg-id="gol.es" group-title="Fútbol",GOL Classics
 https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics.m3u8
 
