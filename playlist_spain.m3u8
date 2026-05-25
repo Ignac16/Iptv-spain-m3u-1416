@@ -72,11 +72,13 @@ http://45.95.78.232:8001/udp/239.106.84.3:5000
 #EXTINF:-1 tvg-name="BOM Cine.es" tvg-logo="https://i.imgur.com/cqhofMU.png" tvg-id="BomCine.es" group-title="Spain",BOM Cine
 http://176.65.146.237:8401/play/a09d/index.m3u8
 #EXTINF:-1 tvg-name="Telemadrid" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/512px-TeleMadrid.svg.png" tvg-id="Telemadrid.es" group-title="Spain",Telemadrid
-http://45.95.78.232:8001/udp/239.106.90.3:5000
+https://live.telemadrid.cross-media.es/6389770581112/eu-central-1/6416060453001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiajI5YjgyLmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjQxNjA2MDQ1MzAwMSIsImVobiI6ImxpdmUudGVsZW1hZHJpZC5jcm9zcy1tZWRpYS5lcyIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiNjQxNjA2MDQ1MzAwMSJdLCJqdGkiOiI2Mzg5NzcwNTgxMTEyIn0.kqriAMUkHT6m0V6wkCHJum_EUyL4PAi1zJMKlfmYHEU/chunklist_audio0.m3u8
 #EXTINF:-1 tvg-name="La Otra.es" tvg-logo="https://i.imgur.com/W1UZyXH.png" tvg-id="LaOtra.es" group-title="Spain",La Otra
 http://45.95.78.232:8001/udp/239.106.90.4:5000
-#EXTINF:-1 tvg-name="Canal Sur Andalucía" tvg-logo="https://i.imgur.com/WcVOXPr.png" tvg-id="CanalSurAndalucia.es" group-title="Spain",Canal Sur Andalucía
-https://d35x6iaiw8f75z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbwsl0jk1bvoo/canal_sur_andalucia_es.m3u8
+#EXTINF:-1 tvg-name="Canal Sur Andalucía" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/CanalSur1.svg/250px-CanalSur1.svg.png" tvg-id="CanalSurAndalucia.es" group-title="Spain",Canal Sur Andalucía
+https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8
+#EXTINF:-1 tvg-name="Canal Sur Andalucía2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Canal_Sur_2_-_2017_logo.png" tvg-id="CanalSurAndaluciados.es" group-title="Spain",Canal Sur Andalucía 2
+https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TENCanal10.hn" tvg-logo="https://i.imgur.com/HQiKyHy.jpg" group-title="Spain",TEN 
 http://45.95.78.232:8001/udp/239.106.85.2:5000
 #EXTINF:-1 tvg-name="La 8 Mediterráneo" tvg-logo="https://graph.facebook.com/la8mediterraneo/picture?width=200&height=200" tvg-id="La8Mediterraneo.es" group-title="Spain",La 8 Mediterráneo
