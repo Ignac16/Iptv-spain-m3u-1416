@@ -63,7 +63,7 @@ http://38.96.178.201:80/live/ComedyCentral/index.m3u8
 http://vegafibratv.com:8085/AMC/index.m3u8
 #EXTINF:-1 tvg-name="discovery xanel.es" "tvg-id="DISCOVERY.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="Spain",Discovery
 http://vegafibratv.com:8085/AMC/index.m3u8
-#EXTINF:-1 tvg-name="history channel.es" "tvg-id="Historia.es" tvg-logo="https://www.clipartmax.com/png/middle/425-4257707_canal-historia-hdtv-history-channel-logo-png.png" group-title="Spain",Historia
+#EXTINF:-1 tvg-name="history channel.es" "tvg-id="Historia.es" tvg-logo="https://i.imgur.com/VUy8xIG.png" group-title="Spain",Historia
 https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
 #EXTINF:-1 tvg-name="Squirrel.es" tvg-logo="https://i.imgur.com/urF0kYA.png" tvg-id="Squirrel.es" group-title="Spain",Squirrel
 http://45.95.78.232:8001/udp/239.106.84.2:5000
