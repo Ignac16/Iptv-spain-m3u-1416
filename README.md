@@ -20,3 +20,11 @@ Canales disponibles en España con Tdt en vivo y con máxima calidad disponible,
 
 
 Y hasta aquí todo señores. 
+
+
+
+
+# ¡AVISO IMPORTANTE!
+### Este repo ya no se va a ACTUALIZAR.
+Hemos creado una app que no se actualiza por medios de este repo y la podeis encontrar en github.com/Ignac16/tv-app
+### ¡GRACIAS!
