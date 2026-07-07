@@ -1,6 +1,6 @@
 # ¡AVISO IMPORTANTE!
 ### Este repo ya no se va a ACTUALIZAR.
-Hemos creado una app que no se actualiza por medios de este repo y la podeis encontrar en github.com/Ignac16/tv-app
+Hemos creado una app que no se actualiza por medios de este repo y la podeis encontrar en https://www.github.com/Ignac16/tv-app
 ### ¡GRACIAS!
 
 
